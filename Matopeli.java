@@ -2,8 +2,7 @@
  * Lausekielinen ohjelmointi, 2.harjoitustyö
  * Matopeli
  *
- *Jenna Halmetoja, a616148
- * Halmetoja.Jenna.E@student.uta.fi
+ * Jenna Halmetoja
  */
 public class Matopeli {
     //Alustetaan vakioituja muuttujia.
